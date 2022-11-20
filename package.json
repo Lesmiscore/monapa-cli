@@ -28,7 +28,7 @@
     "argparse": "^2.0.0",
     "axios": "^0.21.0",
     "bignumber.js": "^9.0.0",
-    "bitcoinjs-lib": "^3.3.2",
+    "bitcoinjs-lib": "^6.0.0",
     "coinselect": "git+https://github.com/bitcoinjs/coinselect.git",
     "readline-sync": "^1.4.9"
   }
